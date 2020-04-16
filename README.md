@@ -1,2 +1,5 @@
 # sh2py
-Python package
+
+Shell script to Python code.
+
+
